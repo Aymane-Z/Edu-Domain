@@ -35,7 +35,7 @@ EduDomain est une application web conçue pour simplifier la gestion des réside
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/yourusername/EduDomain.git
+   git clone https://github.com/Aymane-Z/EduDomain.git
    ```
 
 2. **Installer les dépendances**
