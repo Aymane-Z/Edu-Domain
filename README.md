@@ -41,11 +41,11 @@ EduDomain est une application web conçue pour simplifier la gestion des réside
 2. **Installer les dépendances**
    ```bash
    # Installer les dépendances du frontend
-   cd EduDomain/frontend
+   cd ./frontend
    npm install
    
    # Installer les dépendances du backend
-   cd ../backend
+   cd ./nodejs-express-api
    npm install
    ```
 
@@ -63,7 +63,7 @@ EduDomain est une application web conçue pour simplifier la gestion des réside
 5. **Lancer l'application** : (Modifier les ports comme vous le souhaitez dans les fichiers .env)
    ```bash
    # Pour le backend
-   cd backend
+   cd nodejs-express-api
    npm start
 
    # Pour le frontend
